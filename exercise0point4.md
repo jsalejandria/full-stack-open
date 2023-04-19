@@ -56,4 +56,3 @@ sequenceDiagram
 
     Note right of browser: The browser executes the callback function that renders the notes with the newly added note
 ```
-
